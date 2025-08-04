@@ -23,8 +23,11 @@
 # font-family = Iosevka Term
 # font-family = PragmataPro Mono Liga
 # font-family = Berkeley Mono
-font-family = IBM Plex Mono
+# font-family = IBM Plex Mono
+font-family = SF Mono
 font-size = 14
+
+theme = cyberpunk
 # window-padding-x = 2
 #
 # # Spacing around the equals sign does not matter.
