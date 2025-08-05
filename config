@@ -25,9 +25,10 @@
 # font-family = Berkeley Mono
 # font-family = IBM Plex Mono
 font-family = SF Mono
-font-size = 14
+font-style = Medium
+# font-size = 14
 
-theme = cyberpunk
+theme = Apple System Colors
 # window-padding-x = 2
 #
 # # Spacing around the equals sign does not matter.
