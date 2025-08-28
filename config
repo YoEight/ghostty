@@ -53,3 +53,4 @@ theme = Apple System Colors
 keybind = shift+enter=text:\n
 macos-option-as-alt = left
 keybind = super+\=toggle_quick_terminal
+mouse-hide-while-typing = true
